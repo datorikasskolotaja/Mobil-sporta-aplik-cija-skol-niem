@@ -1,0 +1,16 @@
+Izveido lietotaju registracijas formu izmantojot vienu no sim Python bibliotekam:
+
+https://www.geeksforgeeks.org/python/create-a-registration-form-using-pywebio-module-in-python/ 
+
+PyWebIO
+
+
+https://dev.to/spiff/how-to-develop-a-user-data-storage-registration-form-using-python-41i1
+
+Kivy
+
+https://www.youtube.com/watch?v=XExY7ZH31-E
+
+https://www.youtube.com/watch?v=Nc5AIJJ2ARA
+
+Tkinter
